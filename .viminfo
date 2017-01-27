@@ -1,0 +1,115 @@
+# この viminfo ファイルは Vim 7.4 によって生成されました.
+# 変更する際には十分注意してください!
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:wq!
+:q!
+:wq
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+""1	LINE	0
+	  become: true
+"2	LINE	0
+	  bcome: true
+	  - name: create directory
+"3	LINE	0
+	  - name: create directory
+	    file:
+"4	LINE	0
+	  become: tru
+"5	LINE	0
+	ansible_become = true
+"-	CHAR	0
+	e
+
+# ファイルマーク:
+'0  5  13  ~/PATH_TO/effective_ansible/sec2/test_playbook.yml
+'1  5  13  ~/PATH_TO/effective_ansible/sec2/test_playbook.yml
+'2  5  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+'3  6  20  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+
+# ジャンプリスト (新しいものが先):
+-'  5  13  ~/PATH_TO/effective_ansible/sec2/test_playbook.yml
+-'  1  0  ~/PATH_TO/effective_ansible/sec2/test_playbook.yml
+-'  5  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  6  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  1  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  5  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  6  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  1  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  5  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  6  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  1  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  5  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  6  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  1  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  6  6  ~/PATH_TO/effective_ansible/sec2/test_playbook.yml
+-'  5  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  6  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  1  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  5  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  6  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  1  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  5  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  6  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  1  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  5  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  6  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  1  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  4  4  ~/PATH_TO/effective_ansible/sec2/test_playbook.yml
+-'  5  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  6  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  1  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  5  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  6  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  1  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  5  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  6  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  1  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  5  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  6  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  1  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  5  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  6  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  1  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  5  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  6  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  1  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  5  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  6  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  1  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  5  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  6  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+-'  1  0  ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/PATH_TO/effective_ansible/sec2/test_playbook.yml
+	"	5	13
+	^	5	14
+	.	3	13
+	+	5	13
+	+	3	13
+	+	5	0
+	+	5	0
+	+	3	13
+
+> ~/PATH_TO/effective_ansible/sec2/inventory/test02_inventory.ini
+	"	5	0
+	.	6	0
+	+	5	10
+	+	6	0
