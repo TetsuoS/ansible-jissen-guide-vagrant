@@ -12,7 +12,7 @@
    $ sudo yum install -y sshpass
    $ sudo yum install -y ansible
 
-③ gitの導入
+③ ansibleの導入
 
 　　$ sudo yum install -y ansible
 
